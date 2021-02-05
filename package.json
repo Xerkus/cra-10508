@@ -1,0 +1,7 @@
+{
+  "name": "cra-10508",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
